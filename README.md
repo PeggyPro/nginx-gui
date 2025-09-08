@@ -1,4 +1,4 @@
-> 这是一个免费且功能齐全的GPT：http://link.fuckicoding.com
+> 这是一个免费且功能齐全的GPT：http://fuckicoding.com
 > [https://onlyguo.github.io/chatgpt-mirror/](https://onlyguo.github.io/chatgpt-mirror/)
 
 
